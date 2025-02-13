@@ -1,4 +1,4 @@
-# Hello there I am Viral Alejandro👋
+# Hello there I am Alejandro👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
